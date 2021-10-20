@@ -1,0 +1,4 @@
+.navigationContent {
+  display: flex;
+  flex-direction: row;
+}
