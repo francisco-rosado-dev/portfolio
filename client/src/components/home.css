@@ -12,12 +12,24 @@
   font-size: 20px;
 }
 
-ul {
+.stackItems {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
+  width: 500px;
   list-style-type:none;
   font-size: 15px;
   color: black;
+  margin: 0 auto;
+  padding: 0;
+
+}
+
+.stackItem {
   background-color: orange;
+  margin: 10px;
+  border-radius: 25px;
+  width: 100px;
+  font-weight: bold;
 }
