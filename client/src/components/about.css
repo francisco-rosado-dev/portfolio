@@ -2,3 +2,8 @@
   border-radius: 50%;
   width: 200px;
 }
+
+.description {
+width: 200px;
+text-align: center;
+}
