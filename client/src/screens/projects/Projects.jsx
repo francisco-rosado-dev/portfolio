@@ -1,7 +1,7 @@
 import './projects.css'
-import humancoin from '.././humancoin.png'
-import ysfj from '.././ysfj.png'
-import musicphile from '.././musicphile.jpg'
+import humancoin from './project_images/humancoin.png'
+import ysfj from './project_images/ysfj.png'
+import musicphile from './project_images/musicphile.jpg'
 
 function Work() {
   return (
