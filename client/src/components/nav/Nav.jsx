@@ -5,7 +5,7 @@ export default function Nav() {
 
   return (
     <div className="navigationContent">
-      <h1 className="name">Francisco Rosado</h1>
+      <NavLink className="name" to="/">Francisco Rosado</NavLink>
       <nav className="navigationContainer">
 
         <NavLink className="dashboard-selector" activeClassName='active-selector' exact to="/">Home</NavLink>
