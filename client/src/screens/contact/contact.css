@@ -1,0 +1,9 @@
+.contactLink {
+  display: flex;
+  flex-direction: row;
+  max-width:230px;
+  max-height:95px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
