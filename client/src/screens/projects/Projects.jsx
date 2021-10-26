@@ -10,8 +10,8 @@ function Work() {
         <img alt="Human Coin" src={humancoin} className="portfolioImages" />
         <h3>Human Coin</h3>
         <p>Human Coin is a React application that introduces the innovative concepts of cryptocurrencies to manual labor. By tapping or clicking on the coin found in your wallet, you chip closer to finding a coin.</p>
-        <a target="_blank" rel="noreferrer" href="https://https://human-coin.netlify.app/"><button type="button" className="resume">Live Site</button></a>
         <a target="_blank" rel="noreferrer" href="https://https://github.com/francisco-rosado-dev/human-coin"><button type="button" className="resume">GitHub</button></a>
+        <a target="_blank" rel="noreferrer" href="https://https://human-coin.netlify.app/"><button type="button" className="resume">Live Site</button></a>
       </div>
       <div className="project">
         <img alt="YSFJ" src={ysfj} className="portfolioImages" />
