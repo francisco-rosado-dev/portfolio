@@ -1,6 +1,6 @@
 .contactLink {
   display: flex;
-  flex-direction: row;
+  /* flex-direction: row; */
   max-width:230px;
   max-height:95px;
   margin-left: auto;

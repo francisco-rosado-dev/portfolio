@@ -43,14 +43,14 @@
 
 @media only screen and (max-width: 700px) {
   .navigationContent {
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
-    justify-content: space-between;
+    /* justify-content: space-between; */
   }
   .navigationContainer {
-    display:flex;
+    /* display:flex;
     flex-direction: row;
-    flex-wrap: no-wrap;
+    flex-wrap: no-wrap; */
     margin-left: 0px;
     justify-content: center;
   }
@@ -63,15 +63,15 @@
   font-size: 25px;
 }
 .dashboard-selector {
-  display:flex;
-  flex-direction: row;
+  /* display:flex; */
+  /* flex-direction: row; */
   font-size: 15px;
-  align-items: center;
+  /* align-items: center; */
   color: white;
-  padding: 3px 15px;
-  text-decoration: none;
+  /* padding: 3px 15px; */
+  /* text-decoration: none; */
 }
-.active-selector {
+/* .active-selector {
   color: white;
-}
+} */
 }
