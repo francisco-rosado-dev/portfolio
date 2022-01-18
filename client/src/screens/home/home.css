@@ -30,13 +30,11 @@
 }
 
 .stackItem {
-  /* background-color: rgb(255, 208, 0); */
   justify-content: left;
   margin: 10px;
   border-radius: 15px;
   width: 100px;
   height: 20px;
-  /* font-weight: bold; */
   border-width: 1px;
   border-style: solid;
 }
