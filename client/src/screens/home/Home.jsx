@@ -10,9 +10,10 @@ function Home() {
         <li className="stackItem">Html</li>
         <li className="stackItem">CSS</li>
         <li className="stackItem">JavaScript</li>
+        <li className="stackItem">React</li>
+        <li className="stackItem">Redux</li>
         <li className="stackItem">Bootstrap</li>
         <li className="stackItem">Tailwind CSS</li>
-        <li className="stackItem">React</li>
         <li className="stackItem">Node</li>
         <li className="stackItem">jQuery</li>
         <li className="stackItem">Express</li>
